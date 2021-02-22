@@ -18,3 +18,9 @@ body {
 .splide__slide {
     padding: 31px;
 }
+
+img{
+    display: flex;
+    margin-top: 100px;
+    width: 1024px;
+}
